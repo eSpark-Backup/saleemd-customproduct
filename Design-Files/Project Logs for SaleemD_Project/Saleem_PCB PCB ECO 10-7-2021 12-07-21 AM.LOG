@@ -1,0 +1,23 @@
+Added Component: Designator=J6(114-00841-68)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Connector Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPHENOL ICC (COMMERCIAL PRODUCTS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "114-00841-68"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 10=1.194, 25=1.1208, 50=1.0722, 100=1.0235, 250=0.926, 500=0.8529 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "29968"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "114-00841-68-6-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_CS Pin=J6-2
+Added Pin To Net: NetName=SPI_MOSI Pin=J6-3
+Added Pin To Net: NetName=VCC_3V3 Pin=J6-4
+Added Pin To Net: NetName=SPI_CLK Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=SPI_MISO Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-MP1
+Added Pin To Net: NetName=GND Pin=J6-MP2
+Added Pin To Net: NetName=GND Pin=J6-MP3
+Added Pin To Net: NetName=GND Pin=J6-MP4
+Added Member To Class: ClassName=U_Connector_Section Member=Component J6 114-00841-68

@@ -1,0 +1,47 @@
+Change Component Description : Designator=X1 Old Description=-40?~85? 32768Hz ?????? ±20ppm 90kO 6pF SMD2012-2P Crystals ROHS New Description=-40?~85? 32768Hz ?????? ±20ppm 90kO 6pF SMD2012-2P Crystals ROHS
+Change Component Description : Designator=X2 Old Description=12pF -40?~85? ?????? ±20ppm 8000000Hz SMD3225-4P Crystals ROHS New Description=12pF -40?~85? ?????? ±20ppm 8000000Hz SMD3225-4P Crystals ROHS
+Change Component Description : Designator=R7 Old Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor New Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor
+Change Component Description : Designator=R12 Old Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor New Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor
+Change Component Description : Designator=R13 Old Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor New Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor
+Change Component Description : Designator=R14 Old Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor New Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor
+Change component parameters: Designator = "C8"; Footprint = "RVT1E100M0405"; UniqueID = "\JYRKLBSM\RSQVYNNJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "L"; Value = "5.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ROQANG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-45?~+105?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fD"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "RVT1E100M0405"; UniqueID = "\JYRKLBSM\ARXBNMZF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "L"; Value = "5.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ROQANG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-45?~+105?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fD"; Value = "4mm"; VariantName = "[No Variations]"
+Added Component: Designator=J6(114-00841-68)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Connector Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMPHENOL ICC (COMMERCIAL PRODUCTS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "114-00841-68"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.32, 10=1.194, 25=1.1208, 50=1.0722, 100=1.0235, 250=0.926, 500=0.8529 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "29968"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "114-00841-68-6-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_CS Pin=J6-2
+Added Pin To Net: NetName=SPI_MOSI Pin=J6-3
+Added Pin To Net: NetName=VCC_3V3 Pin=J6-4
+Added Pin To Net: NetName=SPI_CLK Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=SPI_MISO Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-MP1
+Added Pin To Net: NetName=GND Pin=J6-MP2
+Added Pin To Net: NetName=GND Pin=J6-MP3
+Added Pin To Net: NetName=GND Pin=J6-MP4
+Added Member To Class: ClassName=U_Connector_Section Member=Component J6 114-00841-68
