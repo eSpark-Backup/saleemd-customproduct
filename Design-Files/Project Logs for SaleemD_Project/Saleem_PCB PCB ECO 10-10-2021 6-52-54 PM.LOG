@@ -1,0 +1,30 @@
+Change Component Description : Designator=X1 Old Description=-40?~85? 32768Hz ?????? ±20ppm 90kO 6pF SMD2012-2P Crystals ROHS New Description=-40?~85? 32768Hz ?????? ±20ppm 90kO 6pF SMD2012-2P Crystals ROHS
+Change Component Description : Designator=X2 Old Description=12pF -40?~85? ?????? ±20ppm 8000000Hz SMD3225-4P Crystals ROHS New Description=12pF -40?~85? ?????? ±20ppm 8000000Hz SMD3225-4P Crystals ROHS
+Change Component Description : Designator=R7 Old Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor New Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor
+Change Component Description : Designator=R12 Old Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor New Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor
+Change Component Description : Designator=R13 Old Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor New Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor
+Change Component Description : Designator=R14 Old Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor New Description=RES SMD 390 OHM ±1% 1W ±100ppm/? 1218 Chip Resistor
+Added Component: Designator=C8(RVT1E100M0405)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "L"; Value = "5.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROQANG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-45?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "fD"; Value = "4mm"; VariantName = "[No Variations]"
+Added Component: Designator=C9(RVT1E100M0405)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "L"; Value = "5.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROQANG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-45?~+105?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "fD"; Value = "4mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_5V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Member To Class: ClassName=U_Power_Section Member=Component C8 10uF
+Added Member To Class: ClassName=U_Power_Section Member=Component C9 10uF

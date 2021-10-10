@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\eSpark-37\Documents\GitHub\SaleemD-CustomProduct\Design-Files\Design-Files\Saleem_PCB.PcbDoc
-Date     : 10/9/2021
-Time     : 9:28:39 PM
+Date     : 10/10/2021
+Time     : 7:41:36 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -31,7 +31,9 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
-Rule Violations :0
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad SW1-2(1937.947mil,355.753mil) on Top Layer And Text "RST" (2013mil,282mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad SW3-1(1615.071mil,355.753mil) on Top Layer And Text "TEST" (1599mil,282mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+Rule Violations :2
 
 Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
@@ -43,6 +45,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=10000mil) (Prefered=500mil) 
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 2
 Waived Violations : 0
 Time Elapsed        : 00:00:01
