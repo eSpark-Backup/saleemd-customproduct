@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Saleem_PCB.PcbDoc   10/11/2021  6:00:33 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Saleem_PCB-RoundHoles.TXT
+ASCII SlotHoles File : Saleem_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             103       PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T3      22mil (0.55mm)                                            Slot              2         PTH        0.00inch (0.00mm)
+T4      40mil (1.02mm)                                            Round             15        PTH        0.00inch (0.00mm)
+T5      51mil (1.3mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T6      98mil (2.5mm)                                             Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              132
+
+Total Processing Time (hh:mm:ss) : 00:00:00
