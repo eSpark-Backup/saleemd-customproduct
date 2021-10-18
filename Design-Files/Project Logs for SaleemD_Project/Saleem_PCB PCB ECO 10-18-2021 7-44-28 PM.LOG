@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J6 Old Footprint=114-00841-68 New Footprint=TF-002T-15
+Change Component Footprint: Designator=L1 Old Footprint=ASPI-0530LR-3R3M-T2. New Footprint=IHLP2525CZER3R3M01
+Change Component Comment : Designator=J6 Old Comment=114-00841-68 New Comment=TF-002T-15
+Added Member To Class: ClassName=U_Connector_Section Member=Component J6 TF-002T-15
+Added Member To Class: ClassName=U_Power_Section Member=Component L1 3.3 µH
