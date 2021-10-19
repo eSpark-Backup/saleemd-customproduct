@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SaleemD_Project.PrjPcb]
+   Generated File[Saleem_PCB-RoundHoles.TXT]
+   Generated File[Saleem_PCB-SlotHoles.TXT]
+   Generated File[Saleem_PCB.LDP]
+   Generated File[Saleem_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:53:37 PM On 10/19/2021
