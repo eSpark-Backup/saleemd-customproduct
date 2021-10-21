@@ -1,0 +1,57 @@
+Added Component: Designator=J6(TF-002T-15)
+Add component (AddParameter): Name = "Card Connection Mode"; Value = "Pluggable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Card Type"; Value = "MicroSD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/SD-Card-Connectors_SOFNG-TF-002T-15_C125616.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SOFNG"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 2512)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-25121WF3900T4E_C60131.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "25121WF3900T4E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "390O"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES 2512)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-25121WF3900T4E_C60131.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "25121WF3900T4E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "390O"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES 2512)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-25121WF3900T4E_C60131.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "25121WF3900T4E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "390O"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES 2512)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-25121WF3900T4E_C60131.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "25121WF3900T4E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "390O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_CS Pin=J6-2
+Added Pin To Net: NetName=SPI_MOSI Pin=J6-3
+Added Pin To Net: NetName=VCC_3V3 Pin=J6-4
+Added Pin To Net: NetName=SPI_CLK Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=SPI_MISO Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-MP1
+Added Pin To Net: NetName=GND Pin=J6-MP2
+Added Pin To Net: NetName=GND Pin=J6-MP3
+Added Pin To Net: NetName=GND Pin=J6-MP4
+Added Pin To Net: NetName=AN_1 Pin=R7-1
+Added Pin To Net: NetName=BUTTON_1 Pin=R7-2
+Added Pin To Net: NetName=AN_2 Pin=R12-1
+Added Pin To Net: NetName=BUTTON_2 Pin=R12-2
+Added Pin To Net: NetName=AN_3 Pin=R13-1
+Added Pin To Net: NetName=BUTTON_3 Pin=R13-2
+Added Pin To Net: NetName=AN_4 Pin=R14-1
+Added Pin To Net: NetName=BUTTON_4 Pin=R14-2
+Added Member To Class: ClassName=U_Connector_Section Member=Component J6 TF-002T-15
+Added Member To Class: ClassName=U_Opto_Section Member=Component R7 390R
+Added Member To Class: ClassName=U_Opto_Section Member=Component R12 390R
+Added Member To Class: ClassName=U_Opto_Section Member=Component R13 390R
+Added Member To Class: ClassName=U_Opto_Section Member=Component R14 390R
