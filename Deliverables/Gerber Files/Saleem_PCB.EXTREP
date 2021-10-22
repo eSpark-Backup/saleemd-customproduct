@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Saleem_PCB.GBR   10/19/2021  12:53:19 PM
+Gerber File Extension Report For: Saleem_PCB.GBR   10/22/2021  9:23:43 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -12,8 +12,8 @@ Layer Extension     Layer Description
 .GPB                Bottom Pad Master                       
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
-.GBS                Bottom Solder                           
 .GTS                Top Solder                              
+.GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM2                Mechanical 2                            
