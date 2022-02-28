@@ -22,11 +22,11 @@
 
 #define NUMPIXELS 50 // Popular NeoPixel ring size
 
-Adafruit_NeoPixel pixels1(NUMPIXELS, PWM1, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel pixels2(NUMPIXELS, PWM2, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel pixels3(NUMPIXELS, PWM3, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel pixels5(NUMPIXELS, PWM5, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel pixels4(NUMPIXELS, PWM4, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel pixels1(NUMPIXELS, PWM1, NEO_GRB + NEO_KHZ400);
+Adafruit_NeoPixel pixels2(NUMPIXELS, PWM2, NEO_GRB + NEO_KHZ400);
+Adafruit_NeoPixel pixels3(NUMPIXELS, PWM3, NEO_GRB + NEO_KHZ400);
+Adafruit_NeoPixel pixels5(NUMPIXELS, PWM5, NEO_GRB + NEO_KHZ400);
+Adafruit_NeoPixel pixels4(NUMPIXELS, PWM4, NEO_GRB + NEO_KHZ400);
 
 
 void setup() {
@@ -84,6 +84,7 @@ void loop() {
   delay(5000);
 
   if (digitalRead(BUTTON1) == LOW)
+  
   {
     Serial.println("Button1 triggered!");
   } else
